@@ -24,15 +24,6 @@ Minha base é sólida na web padrão e estou expandindo para aplicações full-s
 
 ---
 
-### 📊 Atividade no GitHub
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gussthecoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussthecoder&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
 ### 📫 Vamos trabalhar juntos?
 
 Estou disponível para novos projetos freelance e parcerias.
