@@ -27,8 +27,8 @@ Minha base é sólida na web padrão e estou expandindo para aplicações full-s
 ### 📊 Atividade no GitHub
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gussthecoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussthecoder&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
